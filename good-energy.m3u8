@@ -1,14 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:7
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_4",DEFAULT=YES,CHANNELS="2",URI="https://radio.7z.wtf/good-energy/media_4.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=532711,RESOLUTION=1920x1080,CODECS="av01.0.08M.08.0.110.01.01.01.0,mp4a.40.2",AUDIO="group_A1"
-https://radio.7z.wtf/good-energy/media_0.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=132284,RESOLUTION=960x540,CODECS="avc1.4d401f,mp4a.40.2",AUDIO="group_A1"
+#EXT-X-STREAM-INF:BANDWIDTH=719013,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",AUDIO="group_A1"
 https://radio.7z.wtf/good-energy/media_1.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=58523,RESOLUTION=640x360,CODECS="av01.0.01M.08.0.110.01.01.01.0,mp4a.40.2",AUDIO="group_A1"
-https://radio.7z.wtf/good-energy/media_2.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=36100,RESOLUTION=480x270,CODECS="avc1.4d4015,mp4a.40.2",AUDIO="group_A1"
-https://radio.7z.wtf/good-energy/media_3.m3u8
